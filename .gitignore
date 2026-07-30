@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# project scaffolding / handoff materials (not part of the app)
+/design_handoff_portfolio/
+/sodi's work/
+*.zip
+.claude/
